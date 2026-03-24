@@ -39,23 +39,18 @@ The core idea is inspired by **Natural Language Processing (NLP)** — convertin
 ## ⚙️ Pipeline
 
 1. **Preprocessing**
-
    * Signal cleaning and segmentation into fixed windows
 
 2. **Feature Reduction**
-
    * PCA for dimensionality reduction
 
 3. **Tokenization**
-
    * K-Means clustering to create discrete codebook tokens
 
 4. **Sequence Modeling**
-
    * Transformer encoder for learning temporal patterns
 
 5. **Classification**
-
    * Linear head for final prediction
 
 ---
