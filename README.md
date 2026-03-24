@@ -23,7 +23,7 @@ The core idea is inspired by **Natural Language Processing (NLP)** — convertin
 * Multi-channel brain signals capturing neural activity
 * Noisy, non-stationary time-series data
 
-### Tokenization (GenAI-Inspired)
+### Tokenization
 
 * Inspired by **GPT/BERT tokenization**
 * Continuous EEG → discrete tokens using clustering
